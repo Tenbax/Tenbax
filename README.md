@@ -1,4 +1,7 @@
 ### Hi there 👋
+https://github.com/Tenbax/WarClub.git
+https://github.com/Tenbax/project-2.git
+https://github.com/Tenbax/project-3.git
 
 <!--
 **Tenbax/Tenbax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
