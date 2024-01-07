@@ -1,4 +1,4 @@
-### Hi there 👋, мои проекты
+### Hi there 👋, here are my projects
 https://github.com/Tenbax/WarClub.git
 
 https://github.com/Tenbax/project-2.git
